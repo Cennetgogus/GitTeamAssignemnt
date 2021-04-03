@@ -14,7 +14,7 @@ public class TeamAssignment {
 
 
 
-    // method to multiply two int together: int multiply(int a, int b) {}
+    // to mmethod ultiply two int together: int multiply(int a, int b) {}
 
 
 
@@ -24,6 +24,8 @@ public class TeamAssignment {
 
     // method to print hello world: void helloWorld() {}
 
-
+    public static void main{
+        System.out.println("helle brogrammers");
+    }
 
 }
