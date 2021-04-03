@@ -20,7 +20,7 @@ public class TeamAssignment {
 
 
         // method to tell if an int is even: boolean isEven(int number) {}
-        public stati void main{
+        public static void main{
             int x = in.nextInt();
             boolean even;
             for (int i = 0; i == 5; i++) {
@@ -30,8 +30,9 @@ public class TeamAssignment {
                 }
         }
 
-        // method to print hello world: void helloWorld() {}
 
-
+    public static void main{
+        System.out.println("helle brogrammers");
     }
+
 }
