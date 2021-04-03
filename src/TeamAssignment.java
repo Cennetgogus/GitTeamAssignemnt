@@ -27,6 +27,7 @@ public class TeamAssignment {
                 if ((x / 2) * 2 == x) {
                     even = true;
                     System.out.println(x + " is even.");
+                    System.out.println("helo haluk");
                 }
         }
 
